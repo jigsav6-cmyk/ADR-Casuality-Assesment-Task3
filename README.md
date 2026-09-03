@@ -35,3 +35,5 @@ def assess_causality():
     print("Naranjo Score: 6 = PROBABLE ADR")
 
 assess_causality() 
+Total Score = 6 = PROBABLE ADR
+WHO-UMC = PROBABLE
