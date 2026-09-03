@@ -14,4 +14,4 @@ def assess_causality():
     print("\nWHO-UMC: PROBABLE")
     print("Naranjo Score: 6 = PROBABLE ADR")
 
-assess_causality()
+assess_causality() 
