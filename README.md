@@ -16,3 +16,22 @@ To evaluate the relationship between a drug and an observed adverse reaction usi
 - **Rechallenge:** Not done (Ethically not recommended for skin hypersensitivity)
 - **Alternative Causes:** None - No other new drug, food, or disease
 - **Past History:** No previous history of pen
+
+
+# ID: task3 - Causality Assessment
+# Intern: Jignesh Savaniya
+
+def assess_causality():
+    print("===== CAUSALITY ASSESSMENT - TASK 3 =====")
+    print("PATIENT: 45-year-old Female")
+    print("DRUG: Amoxicillin")
+    print("REACTION: Skin Rash")
+    print("ONSET: 3 days after starting")
+    print("OUTCOME: Recovered after stopping")
+    print("\n01 TEMPORAL RELATIONSHIP: YES")
+    print("02 DECHALLENGE: POSITIVE")
+    print("03 ALTERNATIVE CAUSES: UNLIKELY")
+    print("\nWHO-UMC: PROBABLE")
+    print("Naranjo Score: 6 = PROBABLE ADR")
+
+assess_causality() 
